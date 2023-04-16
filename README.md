@@ -1,5 +1,5 @@
 feito por:
 
-Guilherme Ribeiro Chagas
-João Lucas
-Mateus Rocha
+Guilherme Ribeiro Chagas;
+João Lucas;
+Mateus Rocha;
