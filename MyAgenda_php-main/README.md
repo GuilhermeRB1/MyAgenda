@@ -2,7 +2,7 @@
 
 A phonebook made with PHP and Mysql (as a database) that you can add, edit or delete a person's contact.
 
-<img height="500em" src="https://github.com/ViniStrife/MyAgenda_php/blob/main/assets/animation.gif"></img>
+<img height="500em" src="https://github.com/GuilhermeRB1/MyAgenda/blob/main/MyAgenda_php-main/animation.gif"></img>
 
 ## Instructions:
 
